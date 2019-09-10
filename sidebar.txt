@@ -1,0 +1,10 @@
+	  <p><p></p></p>
+	  <div class="sidebar_item">
+            <h2>Recent News</h2>
+	    <h3>October 2014</h3>
+                <p>The <a href="http://arxiv.org/abs/1410.1551">paper</a> <i>The Relationship between Stellar Mass, Gas Metallicity, and Star Formation Rate for H&alpha;-selected Galaxies at z~0.8 from the NewH&alpha; Survey</i> was accepted for publication in the <i>Astronomical Journal</i>. The paper is led by Mithi de los Reyes, an undergraduate student that I mentored during Summer 2013.</p>
+
+	    <h3>December 2013</h3>
+	    	<p>A first-authored paper titled <i>'Direct' Gas-phase Metallicities, Stellar Properties, and Local Environments of Emission-line Galaxies at Redshifts below 0.90</i> was published in the <a href="http://iopscience.iop.org/0004-637X/780/2/122/"><i>Astrophysical Journal</i></a>. The paper characterizes a rare population of galaxies that we found in the Subaru Deep Field. These galaxies are thought to exist in large numbers during the first few billion years after the Big Bang. Because of observational limitations, we can only find them seven billion years after the Big Bang.</p>
+
+          </div><!--close sidebar_item--> 
