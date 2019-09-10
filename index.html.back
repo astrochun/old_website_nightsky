@@ -1,0 +1,149 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+
+<link rel="stylesheet" type="text/css" href="/users/portal/css/basic.css" media="projection, screen">
+</head>
+<body>
+<!--#include virtual="/users/portal/includes/nasa_header.html"-->
+
+<head>
+  <title>Chun Ly, Ph.D, Astrophysicist</title>
+  <meta name="description" content="Professional webpage for Chun Ly" />
+  <meta name="keywords" content="astronomy,physics,galaxies,evolution" />
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+  <link rel="stylesheet" type="text/css" href="css/style.css" />
+  <script type="text/javascript" src="js/jquery.min.js"></script>
+  <script type="text/javascript" src="js/jquery.easing.min.js"></script>
+  <script type="text/javascript" src="js/jquery.nivo.slider.pack.js"></script>
+  <script type="text/javascript">
+    $(window).load(function() {
+        $('#slider').nivoSlider();
+    });
+  </script> 
+</head>
+
+<body>
+  <div id="main">
+      <div id="menubar">
+	  <div id="welcome">
+	      <a href="index.html"><img src="images/name.png" /></a>
+	  </div>
+
+	  <div id="menu_items">
+	      <ul id="menu">
+	         <!-- <li class="current"><a href="index.html">Home</a></li> -->
+		 <li><a href="#contact">Contact</a></li>
+		 <li><a href="CV.pdf">Curriculum Vitae</a></li>
+		 <li><a href="Bib.pdf">Publications</a></li>
+		 <li><a href="LyChun_UCLA_dissertation.pdf">Dissertation</a></li>
+	      </ul>
+	  </div><!--close menu-->
+      </div><!--close menubar-->	
+    
+      <!--#include virtual="form0.html"-->
+
+	  <div id="content">
+	      <div class="content_item">
+	          <div class="button_small">
+		      <b>About Me</b>
+		  </div><!--close button_small-->
+		  <p>Hello! My name is <b>Chun Ly</b>, and I'm currently a <a href="http://nasa.orau.org/postdoc/description/index.htm">NASA Postdoctoral Fellow</a>
+		     at the <a href="http://www.nasa.gov/centers/goddard/home/">Goddard Space Flight Center</a> (GSFC). My research is sponsored by
+		     <a href="http://www.janerigby.net">Dr. Jane Rigby</a> and the Observational Cosmology Laboratory (Code 665). Previously, I was a Giacconi Fellow
+		     at the <a href="http://www.stsci.edu">Space Telescope Science Institute</a>. I completed my Master's and Ph.D. in Astronomy at
+		     University of California Los Angeles (UCLA), under <a href="http://www.astro.ucla.edu/~malkan/">Prof. Matthew Malkan</a>'s advisorship. Prior to
+		     UCLA, I was at University of Arizona and the National Radio Astronomy Observatory where I worked on distant radio galaxies with Drs. Craig Walker,
+		     David de Young, and Mike Brotherton, and Prof. Jill Bechtold. You can find my CV <a href="CV.pdf">here</a>.
+		  </p>	  
+	      </div><!--close content_item-->
+
+	      <div class="content_container">
+		  <div class="button_large">
+		      <b>Research Interests</b>
+		  </div><!--close button_large-->
+		  
+		  <p>My current astronomical research aims to determine how galaxies, such as our own Milky Way, were formed and how they evolved over the past ten
+		  billion years. My past work has characterized the stellar population in galaxies. I utilize different empirical techniques to identify star-forming
+		  galaxies, and study their stellar and gaseous properties. You can learn more <a href="projects.html">here</a>.</p>
+
+		  <p></p>
+		  <div class="content_item">
+		      <div class="button_med">
+			  <b>Recent News</b>
+		      </div><!--close button_med-->
+		      <p></p>
+
+		      <h3>December 8, 2014</h3>
+		      <p>The proposal titled "Definitive Measurements of the Mass-Metallicity-SFR Relation at z~2.2" was
+		      awarded three nights on the 8.2-m Subaru telescope. I am the Science PI for the proposal with
+		      Dr. Masao Hayashi as the PI.</p>
+
+		      <h3>December 4, 2014</h3>
+		      <p>My first-authored paper titled "Metal-poor, Strongly Star-Forming Galaxies in the DEEP2 Survey:
+		      The Relationship between Stellar Mass, Temperature-based Metallicity, and Star Formation Rate"
+		      was submitted as a Letter to the <i>Astrophysical Journal</i>. You can read our results on the
+		      <a href="http://arxiv.org/abs/1412.1834">arXiv</a>.</p>
+
+		      <h3>December 1, 2014</h3>
+		      <p>(1) My observing proposal titled "Definitive Measurements of the Mass-Metallicity-SFR Relation at
+		      z=0.25-1" was awarded telescope time (one night) on the Keck 2 telescope and grant money ($16,000)
+		      by the NASA Keck committee.
+		      (2) Also, I am a co-investigator on another Keck observing program (PI: Matthew Malkan) titled
+		      "Investigating Galaxy Evolution Processes with Gas Metallicity in Distant Starburst Galaxies" that was
+		      granted two nights by the University of California committee.
+		      Both programs will study low-mass galaxies and determine the properties of the interstellar gas. It will
+		      ultimately investigate if there is a fundamental relationship between three derived physical properties
+		      of star-forming galaxies.</p>
+
+		      <h3>November 26, 2014</h3>
+		      <p>A co-authored <a href="http://arxiv.org/abs/1411.7391">paper</a> titled "A Critical Look at the
+		      Mass-Metallicity-SFR Relation in the Local Universe: Non-parametric Analysis Framework and Confounding
+		      Systematics" was accepted for publication in the <i>Astrophysical Journal</i>. The paper examines the
+		      local mass-metallicity-SFR relation and explains the conflicting results that is seen in previous studies.
+		      It puts forth a non-parametric approach that provides a better examination of this relation, and presents
+		      comprehensive re-analysis of previous work.</p>
+
+		      <h3>October 30, 2014</h3>
+		      <p>The <a href="http://arxiv.org/abs/1410.1551">paper</a> "The Relationship between Stellar Mass, Gas
+		      Metallicity, and Star Formation Rate for H&alpha;-selected Galaxies at z~0.8 from the NewH&alpha; Survey"
+		      was accepted for publication in the <i>Astronomical Journal</i>. The paper is led by Mithi de los Reyes,
+		      a third-year undergraduate student that I mentored during Summer 2013.</p>
+
+
+		      <p></p>
+		      <h3>October 9, 2014</h3>
+		      <p>My NASA Astrophysics Data Analysis Program (ADAP) research proposal titled "Investigating the Evolution
+		      of the Mass-Metallicity-SFR Relation at z < 1.6 with Deep GALEX and Spitzer Imaging" is approved after
+		      competitive peer-review!</p>
+
+		      <p></p>
+		      <h3>December 17, 2013</h3>
+		      <p>A lead-authored paper titled "'Direct' Gas-phase Metallicities, Stellar Properties, and Local Environments
+		      of Emission-line Galaxies at Redshifts below 0.90" was published in the
+		      <a href="http://iopscience.iop.org/0004-637X/780/2/122/"><i>Astrophysical Journal</i></a>. The paper
+		      characterizes a rare population of galaxies that we found in the Subaru Deep Field. These galaxies are thought
+		      to exist in large numbers during the first few billion years after the Big Bang. Because of observational
+		      limitations, we can only find them seven billion years after the Big Bang.</p>
+		  </div><!--close content_item-->
+
+	      </div><!--close content_container-->
+
+	      <div class="content_container">
+		  <div class="button_med">
+		      <b>Publications</b>
+		  </div><!--close button_med-->
+		  <p>My research has been published in several peer-review journals. You can find my bibliography <a href="Bib.pdf">here</a>.</p>          		  
+	      </div><!--close content_container-->		
+
+	  </div><!--close content-->   
+	
+  </div><!--close main-->
+  
+  <div id="footer">
+  Website template by <a href="http://www.araynordesign.co.uk">ARaynorDesign</a>
+  </div><!--close footer-->  
+
+<!--#include virtual="/users/portal/includes/wrapper_bottom.html"-->
+
+</body>
+</html>

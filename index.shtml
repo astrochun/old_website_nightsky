@@ -1,0 +1,87 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+
+<head>
+  <title>Chun Ly, Ph.D, Astrophysicist</title>
+  <meta name="description" content="Professional webpage for Chun Ly" />
+  <meta name="keywords" content="astronomy,physics,galaxies,evolution" />
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+  <link rel="stylesheet" type="text/css" href="css/style.css" />
+  <script type="text/javascript" src="js/jquery.min.js"></script>
+  <script type="text/javascript" src="js/jquery.easing.min.js"></script>
+  <script type="text/javascript" src="js/jquery.nivo.slider.pack.js"></script>
+  <script type="text/javascript">
+    $(window).load(function() {
+        $('#slider').nivoSlider();
+    });
+  </script> 
+</head>
+
+<body>
+  <div id="main">
+      <div id="menubar">
+	  <div id="welcome">
+	      <a href="index.shtml"><img src="images/name.png" /></a>
+	  </div>
+
+	  <div id="menu_items">
+	      <ul id="menu">
+	         <!-- <li class="current"><a href="index.shtml">Home</a></li> -->
+		 <li><a href="#contact">Contact</a></li>
+		 <li><a href="CV.pdf">Curriculum Vitae</a></li>
+		 <li><a href="Bib.pdf">Publications</a></li>
+		 <li><a href="LyChun_UCLA_dissertation.pdf">Dissertation</a></li>
+	      </ul>
+	  </div><!--close menu-->
+      </div><!--close menubar-->	
+    
+      <!--#include file="form0.html"-->
+
+	  <div id="content">
+	      <div class="content_item">
+	          <div class="button_small">
+		      <b>About Me</b>
+		  </div><!--close button_small-->
+		  <p>Hello! My name is <b>Chun Ly</b>, and I'm currently a Professional Observer at the <a href="http://www.mmto.org">MMT Observatory</a> and an
+	             Affiliate Assistant Astronomer at <a href="http://www.as.arizona.edu">Steward Observatory</a>.  Previously, I was a
+	             <a href="http://nasa.orau.org/postdoc/description/index.htm">NASA Postdoctoral Fellow</a> at the
+	             <a href="http://www.nasa.gov/centers/goddard/home/">Goddard Space Flight Center</a> (GSFC), and a Giacconi Fellow at the
+	             <a href="http://www.stsci.edu">Space Telescope Science Institute</a>. I completed my Master's and Ph.D. in Astronomy at
+		     University of California Los Angeles (UCLA), under <a href="http://www.astro.ucla.edu/~malkan/">Prof. Matthew Malkan</a>'s advisorship.
+	             Prior to UCLA, I was at University of Arizona and the National Radio Astronomy Observatory where I worked on distant radio galaxies
+	             with Drs. Craig Walker, David de Young, and Mike Brotherton, and Prof. Jill Bechtold. You can find my CV <a href="CV.pdf">here</a>.
+		  </p>	  
+	      </div><!--close content_item-->
+
+	      <div class="content_container">
+		  <div class="button_large">
+		      <b>Research Interests</b>
+		  </div><!--close button_large-->
+		  
+		  <p>My current astronomical research aims to determine how galaxies, such as our own Milky Way, were formed and how they evolved over the past ten
+		  billion years. My past work has characterized the stellar population in galaxies. I utilize different empirical techniques to identify star-forming
+		  galaxies, and study their stellar and gaseous properties. You can learn more <a href="projects.shtml">here</a>.</p>
+
+		  <p></p>
+
+		  <!--#include virtual="news.html"-->
+	      </div><!--close content_container-->
+
+	      <div class="content_container">
+		  <div class="button_med">
+		      <b>Publications</b>
+		  </div><!--close button_med-->
+		  <p>My research has been published in several peer-review journals. You can find my bibliography <a href="Bib.pdf">here</a>.</p>          		  
+	      </div><!--close content_container-->		
+
+	  </div><!--close content-->   
+	
+  </div><!--close main-->
+  
+  <div id="footer">
+  Website template by <a href="http://www.araynordesign.co.uk">ARaynorDesign</a>
+  </div><!--close footer-->  
+
+
+</body>
+</html>

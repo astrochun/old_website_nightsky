@@ -1,0 +1,36 @@
+<div id="site_content">
+    <div id="banner_image">
+        <div id="slider-wrapper">
+            <div id="slider" class="nivoSlider">
+                <img src="images/home_1.jpg" alt="" />
+                <img src="images/home_2.jpg" alt="" />
+                <img src="images/hectospec.jpg" alt="" />
+                <img src="images/deep2_all.jpg" alt="" />
+            </div><!--close slider-->
+        </div><!--close slider_wrapper-->
+    </div><!--close banner_image-->
+
+    <div class="sidebar_container">
+        <div class="sidebar">
+            <div class="sidebar_item">
+                <img src="images/me.jpg" alt="" />
+            </div><!--close sidebar_item-->
+
+            <p><p></p></p>
+
+            <div class="sidebar_item">
+                <h2>Contact Info</h2>
+                <p>work: &nbsp;&nbsp;+1 (301) 286-6902<br>
+                e-mail: chun.ly [at] nasa.gov or<br>
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;astro.chun [at] gmail.com<br>
+                GSFC office: Bldg 34, Room S337<br><br>
+
+                <h3>Social Media:</h3>
+                <a href="http://www.linkedin.com/pub/chun-ly/35/576/171"><img src="images/inblack.jpg" height="35" width="35"></a>
+                <a href="http://www.facebook.com/adidar"><img src="images/fb_black.jpg" height="35" width="35"></a>
+
+                </p>
+            </div><!--close sidebar_item-->
+
+        </div><!--close sidebar-->
+    </div><!--close sidebar_container-->

@@ -1,0 +1,141 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+
+<head>
+  <title>Chun Ly, Ph.D, Astrophysicist</title>
+  <meta name="description" content="Professional webpage for Chun Ly" />
+  <meta name="keywords" content="astronomy,physics,galaxies,evolution" />
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+  <link rel="stylesheet" type="text/css" href="css/style.css" />
+  <script type="text/javascript" src="js/jquery.min.js"></script>
+  <script type="text/javascript" src="js/jquery.easing.min.js"></script>
+  <script type="text/javascript" src="js/jquery.nivo.slider.pack.js"></script>
+  <script type="text/javascript">
+    $(window).load(function() {
+        $('#slider').nivoSlider();
+    });
+  </script> 
+</head>
+
+<body>
+  <div id="main">
+      <div id="menubar">
+	  <div id="welcome">
+	      <a href="index.shtml"><img src="images/name.png" title="Home" /></a>
+	  </div>
+
+	  <div id="menu_items">
+	      <ul id="menu">
+	         <!--<li><a href="index.shtml">Home</a></li>-->
+		 <li><a href="#contact">Contact</a></li>
+                 <li><a href="CV.pdf">Curriculum Vitae</a></li>
+                 <li><a href="Bib.pdf">Publications</a></li>
+                 <li><a href="LyChun_UCLA_dissertation.pdf">Dissertation</a></li>
+	      </ul>
+	  </div><!--close menu-->
+      </div><!--close menubar-->	
+    
+      <!--#include virtual="form0.html"-->
+
+      <div id="content">
+          <div class="content_item">
+	      <h2>Star Formation and Chemical Enrichment across Time</h2>
+	      <p>
+	      A key question in galaxy formation is how do the connected processes of
+	      <a href="http://en.wikipedia.org/wiki/Star_formation">star formation</a>,
+	      <a href="http://en.wikipedia.org/wiki/Accretion_(astrophysics)">gas accretion</a>,
+	      <a href="http://en.wikipedia.org/wiki/Supernova">feedback from supernova</a>, and
+	      <a href="http://en.wikipedia.org/wiki/Supernova#Interstellar_impact">metal enrichment</a>
+	      transform galaxies across cosmic time? Answering this question requires extensive
+	      observations that measure the star formation rate, stellar population, and gas-phase
+	      <a href="http://en.wikipedia.org/wiki/Metallicity">metallicity</a> of star-forming galaxies.
+
+	      I am leading or co-leading four independent emission-line studies in the Subaru Deep Field
+	      (<a href="http://pasj.oxfordjournals.org/content/56/6/1011.full">Kashikawa et al. 2004</a>,
+	       <a href="http://iopscience.iop.org/0004-637X/657/2/738/">Ly et al. 2007</a>),
+	      the NewH&alpha; Survey (<a href="http://iopscience.iop.org/0004-637X/735/2/91/">Ly et al. 2011</a>,
+	      <a href="http://arxiv.org/abs/1205.0017">Lee et al. 2012</a>), and the
+	      <a href="http://deep.ps.uci.edu/">DEEP2 Survey</a>.  These studies utilize diagnostic
+	      spectroscopy to characterize the physical properties and state of the ionized gas in galaxies.<br></p>
+	      
+	      <img src="images/sdf_moon.png" title="Subaru Deep Field" width="300px" align="right" />
+	      <h3>I. The Subaru Deep Field</h3>
+	      <p>The <a href="http://subarutelescope.org/">Subaru</a> 8.2-meter telescope has stared for over 30 nights at
+	      one particular region of the northern sky with one of the most sensitive optical imagers in the world,
+	      <a href="http://www.naoj.org/Introduction/instrument/SCam.html">Suprime-Cam</a>.
+	      This camera enables images to be taken over a large part of the sky that is comparable to the angular extent
+	      of the Moon. The large area allows us to look at <u>hundreds of thousands of galaxies</u> simultaneously.
+	      Why stare for so long? <font color="brown">To identify some of the faintest galaxies in the early universe!</font> To do
+	      so, the survey utilized a technique called "<a href="http://starizona.com/acb/ccd/advimnarrow.aspx">narrowband imaging</a>"
+	      to pick up emission from hydrogen and oxygen gases that reside within galaxies.<br>
+
+	      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Using the MMT, Keck, and Subaru observatories, my collaborators and I have
+	      targeted some of these faint galaxies with optical and near-infrared spectrographs. We found a rare population of galaxies that
+	      are rapidly forming at an unexpected rate. Many of these galaxies show signs of interactions with other nearby
+	      galaxies (see below). We believe that these interactions trigger the extreme bursts of star formation that we
+	      see. With detections of a very weak line, [OIII]&lambda;4363, we were able to determine that these galaxies
+	      do not have significant heavy elements. In fact, a few of our galaxies have the most metal pristine gas seen
+	      for galaxies outside the local Universe. I am trying to understand why these galaxies have so few metals. One
+	      interpretation is that these galaxy interactions can drive new metal pristine gas into the galaxies, making it
+	      appear "metal-poor" and fueling recent star formation. You can find more information in our
+	      <a href="http://iopscience.iop.org/0004-637X/780/2/122/">paper</a>.
+	      <img src="images/sdf_interaction.jpg" title="These images show that the galaxies at the center are interacting with nearby galaxies" width="675px" align="center" /><br>
+	      </p><br>
+            
+	      <!-- <h3>II. The NewH&alpha; Survey</h3>
+	      <p>Similar to the Subaru Deep Field, the NewH&alpha; Survey utilizes the narrowband technique to find high
+	      redshift galaxies. The survey detects the H&alpha; emission, <a href="http://en.wikipedia.org/wiki/H_II_region">
+	      a recombination line emitted from the ionizing radiation produced by short-lived massive stars</a>.
+	      With two custom narrowband infrared filters, we are able detect H&alpha; at z~1--2, during the epoch where
+	      the global star formation peaked. We use two large-format infrared detectors called
+	      <a href="http://www.noao.edu/ets/newfirm/">NEWFIRM</a> and
+	      <a href="http://instrumentation.obs.carnegiescience.edu/FourStar/">FourStar</a> on the
+	      <a href="http://www.noao.edu/kpno/">KPNO</a>/<a href="http://www.ctio.noao.edu/noao/">CTIO</a> and
+	      <a href="https://obs.carnegiescience.edu/Magellan">Magellan</a> telescopes, respectively. The survey is complete;
+	      it has identified ~400 z=0.8 galaxies (<a href="http://iopscience.iop.org/0004-637X/735/2/91/">Ly et al. 2011</a>),
+	      and is projected to identify ~500 z=2.2 galaxies.<br>
+	      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Using the
+	      <a href="http://www.lco.cl/telescopes-information/magellan/instruments/imacs/">IMACS</a> optical spectrograph on
+	      Magellan, we targeted ~300 z=0.8 galaxies, and determined gas-phase oxygen abundances using "strong-line"
+	      metallicity diagnostics.</p>
+
+	      <h3>III. The DEEP2 Survey</h3><br>
+	      <p></p>
+
+	      -->
+
+	      <h2>Academia, Mentorship, and Educational Outreach</h2>
+
+	      <p> I have had the fortunate opportunity to teach, mentor, and participate in public outreach. While I was a
+	      graduate student at UCLA, I led discussion sections and lab classes for introductory astronomy classes to both
+	      non-science and science major students.<br>
+
+	      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Over the past decade, I have mentored five undergraduate students on
+	      astronomical research projects. Nearly all of them had no prior research experience and limited computer
+	      programming skills. Through daily in-person interactions, I helped guide my students through the entire
+	      scientific research process. I taught my students to inquire, to code, to analyze and interpret data, and
+	      how to search and review scientific literature. These skills have helped my students in their current
+	      pursuits. One of my students has completed her M.Sc. in Applied Science and later worked for the Lawrence
+	      Berkeley National Laboratory. Another is pursuing a Ph.D in Astronomy at Yale. My most recent student has
+	      her first scientific paper accepted for publication in the <i>Astronomical Journal</i>.<br>
+
+	      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I have participated in Project ASTRO, an NSF-funded program to enrich
+	      K-12 physical science education by giving students the opportunity to learn and interact with professional and
+	      amateur astronomers. My experiences as a mentor have prepared me to actively engage undergraduate students
+	      in leading scientific research.</p>
+
+	      THIS PAGE IS STILL UNDER CONSTRUCTION
+
+	   </div><!--close content_item-->
+      </div><!--close content-->   
+	  
+  </div><!--close main-->
+  
+  <!--
+      <div id="footer">
+      Website template by <a href="http://www.araynordesign.co.uk">ARaynorDesign</a>
+      </div><!--close footer-->  
+
+  
+</body>
+</html>
